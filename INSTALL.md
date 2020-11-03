@@ -33,7 +33,7 @@ old build first. You often need to rebuild detectron2 after reinstalling PyTorch
 
 ### Install Pre-Built Detectron2 (Linux only)
 
-Choose from this table to install [v0.2.1 (Aug 2020)](https://github.com/facebookresearch/detectron2/releases):
+Choose from this table to install [v0.2.1 (Aug 2020)](https://github.com/aminekechaou/detectron2/releases):
 
 <table class="docutils"><tbody><th width="80"> CUDA </th><th valign="bottom" align="left" width="100">torch 1.6</th><th valign="bottom" align="left" width="100">torch 1.5</th><th valign="bottom" align="left" width="100">torch 1.4</th> <tr><td align="left">10.2</td><td align="left"><details><summary> install </summary><pre><code>python -m pip install detectron2 -f \
   https://dl.fbaipublicfiles.com/detectron2/wheels/cu102/torch1.6/index.html
